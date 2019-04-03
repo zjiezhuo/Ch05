@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btdailog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btdailog" />
+    <Button
+        android:id="@+id/btlinkform"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlinkform" />
+    <Button
+        android:id="@+id/btlinklist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlinklist" />
+
+    <Button
+        android:id="@+id/btlinktab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlinktab" />
+
+    <Button
+        android:id="@+id/btlinkslide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btlinkslide" />
+
+
+
+
+</LinearLayout>

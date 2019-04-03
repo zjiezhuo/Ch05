@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Ch05</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="btdailog">显示对话框</string>
+    <string name="btlinkform">表单控件展示</string>
+    <string name="bttxt03">提\u0020\u0020\u0020\u0020交</string>
+    <string name="bttxt04">显示提示对话框</string>
+    <string name="btlinklist">显示列表</string>
+    <string name="btlinktab">仿微信多标签切换</string>
+    <string name="btlinkslide">滑动选项卡</string>
+    <string name="bttxt06">进度条</string>
+    <string name="bttxt07">Begin</string>
+    <string name="bttxt08">进度条对话框</string>
+    <string name="bttxt09">评分控件</string>
+    <string name="bttxt10">退出</string>
+    <string name="bttxt11">拖动条控件</string>
+
+    <string name="username_label">用户名：</string>
+    <string name="userpwd_label">密\u0020\u0020\u0020\u0020码：</string>
+    <string name="usersex_label">性 \u0020\u0020\u0020\u0020别：</string>
+    <string name="userlove_label">爱\u0020\u0020\u0020\u0020好：</string>
+    <string name="birthday_label">生\u0020\u0020\u0020\u0020日：</string>
+    <string name="userjob_label">职\u0020\u0020\u0020\u0020业：</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="love1">看书</string>
+    <string name="love2">上网</string>
+
+    <string name="alert">请注意！</string>
+    <string name="is_quit">确定要退出？</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="back">返回</string>
+
+    <string name="label1">请填写您的信息：</string>
+    <string name="label2">请核实您的信息：</string>
+    <string name="lable3">学号</string>
+    <string name="lable4">姓名：</string>
+    <string name="lable5">进度条对话框</string>
+    <string name="label6">您的评分为：</string>
+    <string name="label7">照片</string>
+    <string name="label8">当前尺寸为：200×200px</string>
+    <string name="label9">添加联系人：</string>
+    <string name="label10">电话：</string>
+    <string name="label11">添加联系人</string>
+
+    <string name="reply">回复</string>
+    <string name="delete">删除</string>
+
+    <string name="menu_info">个人资料</string>
+    <string name="menu_letter">发送私信</string>
+    <string name="menu_cloud">云盘</string>
+    <string name="menu_about">关于与帮助</string>
+    <string name="menu_logout">注销</string>
+    <string name="menu_set">设置</string>
+    <string name="menu_exit">退出</string>
+
+    <string name="waiting">请等待...</string>
+
+    <string name="tab_text_chat">微信</string>
+    <string name="tab_text_contacts">通讯录</string>
+    <string name="tab_text_discover">发现</string>
+    <string name="tab_text_mine">我</string>
+</resources>
